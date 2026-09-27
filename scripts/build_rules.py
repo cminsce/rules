@@ -10,7 +10,7 @@ from urllib.parse import urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE_URL = "https://raw.githubusercontent.com/cminsce/surge-rules/main"
+BASE_URL = "https://raw.githubusercontent.com/cminsce/rules/main"
 CLIENTS = ("surge", "loon", "quantumult-x", "stash")
 # Order is shared by all configuration fragments. Specific routes precede proxy.
 RULESETS = (

@@ -8,37 +8,37 @@ rule-providers:
   RednoteReject:
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/RednoteReject.yaml
+    url: https://raw.githubusercontent.com/cminsce/rules/main/rules/stash/RednoteReject.yaml
     interval: 86400
   CustomDirect:
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomDirect.yaml
+    url: https://raw.githubusercontent.com/cminsce/rules/main/rules/stash/CustomDirect.yaml
     interval: 86400
   CustomAd:
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomAd.yaml
+    url: https://raw.githubusercontent.com/cminsce/rules/main/rules/stash/CustomAd.yaml
     interval: 86400
   CustomDownload:
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomDownload.yaml
+    url: https://raw.githubusercontent.com/cminsce/rules/main/rules/stash/CustomDownload.yaml
     interval: 86400
   CustomJapan:
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomJapan.yaml
+    url: https://raw.githubusercontent.com/cminsce/rules/main/rules/stash/CustomJapan.yaml
     interval: 86400
   CustomUS3:
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomUS3.yaml
+    url: https://raw.githubusercontent.com/cminsce/rules/main/rules/stash/CustomUS3.yaml
     interval: 86400
   CustomProxy:
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomProxy.yaml
+    url: https://raw.githubusercontent.com/cminsce/rules/main/rules/stash/CustomProxy.yaml
     interval: 86400
 
 rules:

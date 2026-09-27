@@ -20,7 +20,7 @@
 3. 将片段合并到表中对应位置；已有同名区块时仅合并内容，不再添加重复区块。
 4. 在 App 中更新远程规则，通过请求记录检查命中规则和最终节点。
 
-接入片段默认引用本仓库，例如 [Surge 的 CustomProxy 原始文件](https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/surge/CustomProxy.list)。订阅要使用 `raw.githubusercontent.com` 地址，不能使用 GitHub 的文件展示页面。
+接入片段默认引用本仓库，例如 [Surge 的 CustomProxy 原始文件](https://raw.githubusercontent.com/cminsce/rules/main/rules/surge/CustomProxy.list)。订阅要使用 `raw.githubusercontent.com` 地址，不能使用 GitHub 的文件展示页面。
 
 ## 分类与策略
 
