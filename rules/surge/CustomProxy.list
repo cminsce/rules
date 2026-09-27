@@ -1,0 +1,39 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/CustomProxy.list
+
+# Custom Proxy Rules
+
+# 交给「🚀 节点选择」
+
+DOMAIN-KEYWORD,18comic
+DOMAIN-SUFFIX,scxvxwe.lol
+DOMAIN-SUFFIX,akash.network
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,gofile.io
+DOMAIN-SUFFIX,torrentmac.net
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,eud.rocks
+
+DOMAIN-SUFFIX,wnacg.com
+DOMAIN-SUFFIX,piaotia.com
+DOMAIN-SUFFIX,beqege.cc
+DOMAIN-SUFFIX,snow-plus.net
+DOMAIN-SUFFIX,south-plus.net
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-KEYWORD,laowang
+DOMAIN-KEYWORD,moxing
+DOMAIN-SUFFIX,thotsbay.tv
+DOMAIN-SUFFIX,bestthots.com
+DOMAIN-SUFFIX,cdn.meidusha.name
+DOMAIN-SUFFIX,sis001.com
+DOMAIN-SUFFIX,sexinsex.net
+DOMAIN-SUFFIX,flirt4free.com
+
+DOMAIN-SUFFIX,fujian.monster
+DOMAIN-SUFFIX,cdn.fujian.lol
+DOMAIN-SUFFIX,iili.io
+DOMAIN-SUFFIX,recipeze.eu.org
+DOMAIN-SUFFIX,recette.eu.org
+DOMAIN-SUFFIX,userapi.com

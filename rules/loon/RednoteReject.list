@@ -1,0 +1,17 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/RednoteReject.list
+
+# Rednote Reject Rules
+
+# XiaoHongShu / DNS Blocking
+DOMAIN,ads-img-al.xhscdn.com
+DOMAIN,ads-img-qc.xhscdn.com
+DOMAIN,ads-video-al.xhscdn.com
+DOMAIN,ads-video-qc.xhscdn.com
+DOMAIN,ads-vp5.xhscdn.com
+# Loon 的 RednoteReject 仅保留已列出的 5 个 ads-* 精确域名；未输出 ads-*.xhscdn.com 通配符，未知广告域名不在此覆盖范围。
+DOMAIN,growth-img.xhscdn.com
+DOMAIN,sns-webpic.xhscdn.com
+DOMAIN,xhslive-video.xhscnd.com
+
+DOMAIN-SUFFIX,redbascket.com

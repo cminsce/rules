@@ -1,0 +1,14 @@
+# Rednote Reject Rules
+
+# XiaoHongShu / DNS Blocking
+DOMAIN,ads-img-al.xhscdn.com
+DOMAIN,ads-img-qc.xhscdn.com
+DOMAIN,ads-video-al.xhscdn.com
+DOMAIN,ads-video-qc.xhscdn.com
+DOMAIN,ads-vp5.xhscdn.com
+DOMAIN-WILDCARD,ads-*.xhscdn.com
+DOMAIN,growth-img.xhscdn.com
+DOMAIN,sns-webpic.xhscdn.com
+DOMAIN,xhslive-video.xhscnd.com
+
+DOMAIN-SUFFIX,redbascket.com

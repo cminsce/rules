@@ -1,0 +1,16 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/CustomDirect.list
+
+payload:
+# Custom Forced Direct Rules
+
+# XiaoHongShu
+  - "DOMAIN,ci.xiaohongshu.com"
+  - "DOMAIN,edith.xiaohongshu.com"
+  - "DOMAIN,miniprogram.xiaohongshu.com"
+  - "DOMAIN,pages.xiaohongshu.com"
+  - "DOMAIN,picasso-static.xiaohongshu.com"
+  - "DOMAIN,rec.xiaohongshu.com"
+  - "DOMAIN,so.xiaohongshu.com"
+  - "DOMAIN,live-room.xiaohongshu.com"
+  - "DOMAIN,www.xiaohongshu.com"

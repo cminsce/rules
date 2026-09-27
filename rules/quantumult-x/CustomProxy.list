@@ -1,0 +1,39 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/CustomProxy.list
+
+# Custom Proxy Rules
+
+# 交给「🚀 节点选择」
+
+host-keyword,18comic,🚀 节点选择
+host-suffix,scxvxwe.lol,🚀 节点选择
+host-suffix,akash.network,🚀 节点选择
+host-suffix,cloudflarestorage.com,🚀 节点选择
+host-suffix,dmm.co.jp,🚀 节点选择
+host-suffix,imgur.com,🚀 节点选择
+host-suffix,gofile.io,🚀 节点选择
+host-suffix,torrentmac.net,🚀 节点选择
+host-suffix,vercel.app,🚀 节点选择
+host-suffix,eud.rocks,🚀 节点选择
+
+host-suffix,wnacg.com,🚀 节点选择
+host-suffix,piaotia.com,🚀 节点选择
+host-suffix,beqege.cc,🚀 节点选择
+host-suffix,snow-plus.net,🚀 节点选择
+host-suffix,south-plus.net,🚀 节点选择
+host-suffix,nodeseek.com,🚀 节点选择
+host-keyword,laowang,🚀 节点选择
+host-keyword,moxing,🚀 节点选择
+host-suffix,thotsbay.tv,🚀 节点选择
+host-suffix,bestthots.com,🚀 节点选择
+host-suffix,cdn.meidusha.name,🚀 节点选择
+host-suffix,sis001.com,🚀 节点选择
+host-suffix,sexinsex.net,🚀 节点选择
+host-suffix,flirt4free.com,🚀 节点选择
+
+host-suffix,fujian.monster,🚀 节点选择
+host-suffix,cdn.fujian.lol,🚀 节点选择
+host-suffix,iili.io,🚀 节点选择
+host-suffix,recipeze.eu.org,🚀 节点选择
+host-suffix,recette.eu.org,🚀 节点选择
+host-suffix,userapi.com,🚀 节点选择

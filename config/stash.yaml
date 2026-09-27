@@ -1,0 +1,51 @@
+# 自动生成的接入片段，不是完整主配置。
+# 将策略名改为此 App 已有的策略组；按 README 合并到现有配置。
+# 发布到远程仓库后，下列 URL 才能获取本次生成的规则。
+
+# 合并 rule-providers；将下面的 rules 条目插入现有 rules 顶部。
+# 保留原有 MATCH；不要在同一 YAML 中重复顶层键。
+rule-providers:
+  RednoteReject:
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/RednoteReject.yaml
+    interval: 86400
+  CustomDirect:
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomDirect.yaml
+    interval: 86400
+  CustomAd:
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomAd.yaml
+    interval: 86400
+  CustomDownload:
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomDownload.yaml
+    interval: 86400
+  CustomJapan:
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomJapan.yaml
+    interval: 86400
+  CustomUS3:
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomUS3.yaml
+    interval: 86400
+  CustomProxy:
+    behavior: classical
+    format: yaml
+    url: https://raw.githubusercontent.com/cminsce/surge-rules/main/rules/stash/CustomProxy.yaml
+    interval: 86400
+
+rules:
+  - "RULE-SET,RednoteReject,REJECT"
+  - "RULE-SET,CustomDirect,DIRECT"
+  - "RULE-SET,CustomAd,REJECT"
+  - "RULE-SET,CustomDownload,Ⓜ️ 微软云盘"
+  - "RULE-SET,CustomJapan,📲 电报消息"
+  - "RULE-SET,CustomUS3,📢 谷歌FCM"
+  - "RULE-SET,CustomProxy,🚀 节点选择"

@@ -1,0 +1,30 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/CustomJapan.list
+
+payload:
+# Custom Japan Rules
+
+# 默认通过「📲 电报消息」策略组走日本节点
+
+  - "DOMAIN-SUFFIX,tupian.li"
+  - "DOMAIN-SUFFIX,whos.tv"
+  - "DOMAIN-SUFFIX,codexradar.com"
+  - "DOMAIN-SUFFIX,avlang.com"
+  - "DOMAIN-SUFFIX,sto9.com"
+  - "DOMAIN-SUFFIX,capcut.com"
+  - "DOMAIN-SUFFIX,sinyalee.com"
+  - "DOMAIN-SUFFIX,233233.fun"
+  - "DOMAIN-SUFFIX,sooplive.com"
+  - "DOMAIN-SUFFIX,unity2.ai"
+  - "DOMAIN-KEYWORD,xiaoshuoxia"
+  - "DOMAIN-SUFFIX,redgifs.com"
+  - "DOMAIN-KEYWORD,alicesw"
+  - "DOMAIN-SUFFIX,ciciai.com"
+  - "DOMAIN-SUFFIX,byteoversea.com"
+  - "DOMAIN-SUFFIX,hjd2048.com"
+
+# Game / Japan
+
+  - "DOMAIN-SUFFIX,klei.com"
+  - "DOMAIN-SUFFIX,cs.rin.ru"
+  - "DOMAIN-SUFFIX,steamcontent.com"

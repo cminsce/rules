@@ -1,3 +1,6 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/CustomAd.list
+
 # Custom Advertisement Rules
 
 # Logging / Analytics
@@ -22,6 +25,7 @@ DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,omgmta.qq.com
 DOMAIN-SUFFIX,omgmta1.qq.com
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+DOMAIN-SUFFIX,otheve.beacon.qq.com
 DOMAIN-SUFFIX,oth.str.mdt.qq.com
 DOMAIN-SUFFIX,oth.update.mdt.qq.com
 DOMAIN-SUFFIX,pingma.qq.com

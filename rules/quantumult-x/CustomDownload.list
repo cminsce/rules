@@ -1,0 +1,29 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/CustomDownload.list
+
+# Custom Download Rules
+
+# 默认通过「Ⓜ️ 微软云盘」策略组走费利蒙下载节点
+
+host-suffix,miiixdrop.net,Ⓜ️ 微软云盘
+host-suffix,mxcontent.net,Ⓜ️ 微软云盘
+host-suffix,pixeldrain.com,Ⓜ️ 微软云盘
+
+host-suffix,xiutaku.com,Ⓜ️ 微软云盘
+host-suffix,filehorse.com,Ⓜ️ 微软云盘
+host-suffix,workupload.com,Ⓜ️ 微软云盘
+host-keyword,m1xdrop,Ⓜ️ 微软云盘
+host-keyword,mixdrop,Ⓜ️ 微软云盘
+
+host-suffix,nude-pics.org,Ⓜ️ 微软云盘
+host-suffix,chunman4.com,Ⓜ️ 微软云盘
+host-suffix,ibbs.pro,Ⓜ️ 微软云盘
+host-suffix,ukdevilz.com,Ⓜ️ 微软云盘
+
+host-keyword,missav,Ⓜ️ 微软云盘
+host-suffix,8xsk.com,Ⓜ️ 微软云盘
+host-suffix,pvvstream.pro,Ⓜ️ 微软云盘
+
+host-keyword,javbus,Ⓜ️ 微软云盘
+host-suffix,javdb.com,Ⓜ️ 微软云盘
+host-suffix,javcdn.cc,Ⓜ️ 微软云盘

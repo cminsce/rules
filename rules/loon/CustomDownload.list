@@ -1,0 +1,29 @@
+# 自动生成，请勿直接编辑；运行 python3 scripts/build_rules.py 更新。
+# 规则来源：source/CustomDownload.list
+
+# Custom Download Rules
+
+# 默认通过「Ⓜ️ 微软云盘」策略组走费利蒙下载节点
+
+DOMAIN-SUFFIX,miiixdrop.net
+DOMAIN-SUFFIX,mxcontent.net
+DOMAIN-SUFFIX,pixeldrain.com
+
+DOMAIN-SUFFIX,xiutaku.com
+DOMAIN-SUFFIX,filehorse.com
+DOMAIN-SUFFIX,workupload.com
+DOMAIN-KEYWORD,m1xdrop
+DOMAIN-KEYWORD,mixdrop
+
+DOMAIN-SUFFIX,nude-pics.org
+DOMAIN-SUFFIX,chunman4.com
+DOMAIN-SUFFIX,ibbs.pro
+DOMAIN-SUFFIX,ukdevilz.com
+
+DOMAIN-KEYWORD,missav
+DOMAIN-SUFFIX,8xsk.com
+DOMAIN-SUFFIX,pvvstream.pro
+
+DOMAIN-KEYWORD,javbus
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,javcdn.cc
